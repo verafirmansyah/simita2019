@@ -1,6 +1,4 @@
-###################
-Update Terbaru ada Pada Branch simit_22018 (https://github.com/asratech/simita/tree/simit_22018)
-###################
+# SIMITA 2019
 
 ###################
 Apa itu SIMITA ?
@@ -56,16 +54,6 @@ Versi 2.5 Build 052019
 - Perbaikan beberapa Bug
 - Penambahan Fitur Master Referensi
 - Perbaikan Bug Print
-
-
-**************************
-DEMO APLIKASI
-**************************
-
-Demo : http://demo.asra.tech/simita
-Login
-- Username : root
-- Password : P@ssw0rd
 
 **************************
 DONASI & PERTANYAAN
