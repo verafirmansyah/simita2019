@@ -1,0 +1,99 @@
+/* ----------------------------------------------------------------
+   loading-Spinner Loader
+-----------------------------------------------------------------*/
+.loading-spinner { width: 50px; text-align: center; position: relative; margin:auto; }
+.loading-spinner > div { width: 12px; height: 12px; background-color: #fff;  border-radius: 100%; display: inline-block; -webkit-animation: bouncedelay 0.7s infinite ease-in-out; -moz-animation: bouncedelay 0.7s infinite ease-in-out; animation: bouncedelay 0.7s infinite ease-in-out; -webkit-animation-fill-mode: both; -moz-animation-fill-mode: both; animation-fill-mode: both; }
+.loading-spinner.loading-spinner-md > div { width: 16px; height: 16px; }
+.loading-spinner.loading-spinner-lg{ width: 80px; }
+.loading-spinner.loading-spinner-lg > div { width: 24px; height: 24px; }
+.loading-spinner.light > div { background-color: #000; }
+.loading-spinner .bounce1 { -webkit-animation-delay: -0.32s; -moz-animation-delay: -0.32s; animation-delay: -0.32s; }
+.loading-spinner .bounce2 { -webkit-animation-delay: -0.16s; -moz-animation-delay: -0.16s; animation-delay: -0.16s; }
+@-webkit-keyframes bouncedelay {
+  0%, 80%, 100% { -webkit-transform: scale(0.0) }
+  40% { -webkit-transform: scale(1.0) }
+}
+@-moz-keyframes bouncedelay {
+  0%, 80%, 100% { -moz-transform: scale(0.0) }
+  40% { -moz-transform: scale(1.0) }
+}
+
+/* 
+  Margin & Padding Helper 
+ */
+
+/*margin top*/
+.m-top-0{ margin-top: 0px !important; }
+.m-top-10 { margin-top: 10px; }
+.m-top-15 { margin-top: 15px; }
+.m-top-20 { margin-top: 20px; }
+.m-top-25 { margin-top: 25px; }
+.m-top-30 { margin-top: 30px; }
+.m-top-35 { margin-top: 35px; }
+.m-top-40 { margin-top: 40px; }
+.m-top-50 { margin-top: 50px; }
+.m-top-80 { margin-top: 80px; }
+.m-top-100 { margin-top: 100px; }
+
+/*margin bottom*/
+.m-bot-0 { margin-bottom: 0px !important; }
+.m-bot-10 { margin-bottom: 10px; }
+.m-bot-15 { margin-bottom: 15px; }
+.m-bot-20 { margin-bottom: 20px; }
+.m-bot-25 { margin-bottom: 25px; }
+.m-bot-30 { margin-bottom: 30px; }
+.m-bot-35 { margin-bottom: 35px; }
+.m-bot-40 { margin-bottom: 40px; }
+.m-bot-50 { margin-bottom: 50px; }
+.m-bot-80 { margin-bottom: 80px; }
+.m-bot-100 { margin-bottom: 100px; }
+
+/*padding top*/
+.p-top-0{ padding-top: 0px !important; }
+.p-top-10 { padding-top: 10px; }
+.p-top-15 { padding-top: 15px; }
+.p-top-20 { padding-top: 20px; }
+.p-top-25 { padding-top: 25px; }
+.p-top-30 { padding-top: 30px; }
+.p-top-35 { padding-top: 35px; }
+.p-top-40 { padding-top: 40px; }
+.p-top-50 { padding-top: 50px; }
+.p-top-80 { padding-top: 80px; }
+.p-top-100 { padding-top: 100px; }
+
+/*padding bottom*/
+.p-bot-0{ padding-bottom: 0px !important; }
+.p-bot-10 { padding-bottom: 10px; }
+.p-bot-15 { padding-bottom: 15px; }
+.p-bot-20 { padding-bottom: 20px; }
+.p-bot-25 { padding-bottom: 25px; }
+.p-bot-30 { padding-bottom: 30px; }
+.p-bot-35 { padding-bottom: 35px; }
+.p-bot-40 { padding-bottom: 40px; }
+.p-bot-50 { padding-bottom: 50px; }
+.p-bot-80 { padding-bottom: 80px; }
+.p-bot-100 { padding-bottom: 100px; }
+
+/* Overide */
+.login-page, .register-page { background: #fff; }
+
+/* 
+* Custom
+*/
+.primary-color{color:#F39C12;}
+.navbar-deposit{ display: inline-block; color: #fff; font-size: 18px; padding: 12px; }
+.bg-white{ background: #fff !important; }
+.bg-white .small-box-footer{ background: #555 !important; }
+.small-box a{color: #fff;}
+.main-header .sidebar-toggle{ background: rgba(0,0,0,0.1); }
+
+/* Radio Button */
+input.style-button[type=radio] { display:none; }
+input.style-button[type=radio] + label { display:block; margin:-2px; padding: 4px 12px; margin-bottom: 0; font-size: 14px; line-height: 20px; color: #333; text-align: center; text-shadow: 0 1px 1px rgba(255,255,255,0.75); vertical-align: middle; cursor: pointer; background-color: #f5f5f5; background-image: -moz-linear-gradient(top,#fff,#e6e6e6); background-image: -webkit-gradient(linear,0 0,0 100%,from(#fff),to(#e6e6e6)); background-image: -webkit-linear-gradient(top,#fff,#e6e6e6); background-image: -o-linear-gradient(top,#fff,#e6e6e6); background-image: linear-gradient(to bottom,#fff,#e6e6e6); background-repeat: repeat-x; border: 1px solid #ccc; border-color: #e6e6e6 #e6e6e6 #bfbfbf; border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25); border-bottom-color: #b3b3b3; filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffffff',endColorstr='#ffe6e6e6',GradientType=0); filter: progid:DXImageTransform.Microsoft.gradient(enabled=false); -webkit-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05); -moz-box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05); box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.05); }
+input.style-button[type=radio]:checked + label { background-image: none; outline: 0; -webkit-box-shadow: inset 0 2px 4px rgba(255,255,255,0.15),0 1px 2px rgba(255,0,0,0.05); -moz-box-shadow: inset 0 2px 4px rgba(255,255,255,0.15),0 1px 2px rgba(255,0,0,0.05); box-shadow: inset 0 2px 4px rgba(255,255,255,0.15),0 1px 2px rgba(255,255,255,0.05); background-color:#333; color: #fff; text-shadow: none; }
+
+/* Android Download */
+.android_download{ background: #3A9630; padding: 10px; }
+.android_download > div{ display: inline-block; color: #fff; }
+.android_download .android_link{ margin-top: 3px; }
+.android_download .android_link a{ color: #fff; text-decoration: underline; }

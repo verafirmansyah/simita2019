@@ -1,0 +1,94 @@
+SIMITA (SIstem Managemen IT Aset)
+=================================
+Created Date 	 : 04 April 2017
+Programer 	 : Ahmad Sopian (shopyan.design@gmail.com)
+Update Date	 : 24 Januari 2019
+Apps Base    	 : PHP with CodeIgniter & MySQL Database
+Donasi		 : BCA 6630288884 a/n Ahmad Sopian
+
+Kebutuhan System :
+- PHP 5.4
+- MySQL
+
+
+
+	|=============|
+	| LOG VERSION | 
+	|=============|
+
+Version 1.0 (April 2017)
+------------------------
+-. Pembuatan Aplikasi
+
+Version 2.2 Build 122018
+------------------------
+-. Penambahan Menu Master
+-. Penambahan Master Cabang
+-. Penambahan Field cabang pada transaksi keluar
+-. Penambahan Print nama cabang pada transaksi keluar
+-. Penambahan Menu master Provider Internet
+-. Perbaikan Coding lebih simple
+-. Penambahan dan perbaikan tampilan status tiket
+
+Version 2.3 Build 012018
+------------------------
+- Mobile Phone Ready (Responsive Design)
+- Penambahan Master Manufacture (Merk & Tipe)
+- Penambahan Field Nomor INventaris HRD (Laptop)
+- Penambahan tombol Export pada master Cabang
+- Penambahan Fungsi terbilang di Maintenance
+- Perbaikan hasil print maintenance
+- Penambahan Terbilang di Maintenance
+- Penambahan Field Email pada Master Provider
+- Penambahan Info Cabang di Detail Komputer & Laptop
+- FITUR BARU - Inventory Koneksi Internet Cabang
+- Penambahan Export to Excel Seluruh Data (Laptop, PC,Printer dan Koneksi Internet)
+----> Transaksi
+	- (Laptop) Penambahan Field No.Aset HRD saat Print History Perbaikan
+	  	   dan Inventory Mutasi Barang
+	- Penambahan Field Tanggal Masa Berlaku Garansi (Laptop,PC & Printer)
+
+Version 2.3 Build 022018
+------------------------
+- Penambahan Menu Tipe
+- Perbaikan Tabel Manufacture
+- Penambahan Field Tipe Koneksi Internet
+- Penambahan Detail Data Inventaris Internet
+- Penambahan Field Nomor NPWP dan KTP Supplier pada Master Data Supplier
+- Penambahan Fitur Export to Excel untuk data master supplier
+- Penambahan Validasi NIK Tambah Data Karyawan Baru
+
+Version 2.3 Build 032018
+------------------------
+- Penambahan Validasi Pengguna agar tidak double NIK
+- Penambahan CreatedDate dan CreateBy pada setiap transaksi di database
+- Perbaikan Bug pada Inventory Laptop
+
+Version 2.3 Build 052018
+------------------------
+- Penambahan Fitur Lisensi
+- Penambahan Fitur Password Mikrotik
+- Penambahan fitur ckEditor untuk spesifikasi (Laptop & PC)
+
+Versi 2.4 Build 102018
+----------------------
+- Penambahan Fitur Dashboard
+- Penambahan validasi nilai biaya saat user membuat tiket
+- Update FontAwesome from v4 to v5
+- Perbaikan Validasi Pengguna agar tidak double NIK (Pada versi 2.3)
+- Penambahan fitur pembatasan hak akses user pada beberapa fitur
+// load helper Date
+        $this->load->helper('date');
+- 'createby' => $this->session->userdata('username'),
+- 'createdate' =>mdate('%Y-%m-%d %H:%i:%s', now()),
+- Penambahan code ## autocomplete="off" ## untuk menghapus Auto Complete pada field yang bertipe text
+- Penambahan Helper Date
+- Penambahan Fitur Inventaris Lisensi
+- Penambahan filed Lisensi
+- Penambahan view detail data (PC/Notebook) Lisensi dan masa berlaku
+
+Versi 2.4 Build 012019
+----------------------
+- Perbaikan beberapa kesalahan
+- Penambahan Drop Down untuk Merk & Tipe pada laptop dan komputer
+- Penambahan Fitur Master data referensi
