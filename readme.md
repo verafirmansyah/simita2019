@@ -2,6 +2,12 @@ SIMITA 2019
 ===========
 ![alt text](https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png)
 
+DEMO
+=====
+https://demo.kampungteknologi.web.id/simita2019
+User : root
+Pass : P@ssw0rd
+
 SIMITA ini Versi Open Source
 ============================
 - Beberapa file sengaja kami enkripsi
