@@ -64,11 +64,13 @@ Version 2.3 Build 022018
 - Penambahan Field Tipe Koneksi Internet
 - Penambahan Detail Data Inventaris Internet
 
-Versi 2.5 Build 052019
-----------------------
+Versi 2.5 Build 052019 (Versi 2019
+----------------------------------
 - Perbaikan beberapa Bug
 - Penambahan Fitur Master Referensi
 - Perbaikan Bug Print
+- Perbaikan pada tiket pemilihan nomor inventaris yang tidak muncul
+- Optimasi beberapa fitur
 
 **************************
 DONASI & PERTANYAAN
