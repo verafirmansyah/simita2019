@@ -1,6 +1,12 @@
 SIMITA 2019
 ===========
 
+SIMITA ini Versi Open Source
+============================
+- Beberapa file sengaja kami enkripsi
+- Tidak mendapat dokungan support
+Untuk mendapatkan versi Full Silahkan hubungi kami 0812-1909-3977
+
 ###################
 Apa itu SIMITA ?
 ###################
@@ -13,17 +19,17 @@ Release Information
 
 Version 1.0 (April 2017)
 ------------------------
--. Pembuatan Aplikasi
+- Pembuatan Aplikasi
 
 Version 2.2 Build 122018
 ------------------------
--. Penambahan Menu Master
--. Penambahan Master Cabang
--. Penambahan Field cabang pada transaksi keluar
--. Penambahan Print nama cabang pada transaksi keluar
--. Penambahan Menu master Provider Internet
--. Perbaikan Coding lebih simple
--. Penambahan dan perbaikan tampilan status tiket
+- Penambahan Menu Master
+- Penambahan Master Cabang
+- Penambahan Field cabang pada transaksi keluar
+- Penambahan Print nama cabang pada transaksi keluar
+- Penambahan Menu master Provider Internet
+- Perbaikan Coding lebih simple
+- Penambahan dan perbaikan tampilan status tiket
 
 Version 2.3 Build 012018
 ------------------------
