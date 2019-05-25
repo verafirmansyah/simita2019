@@ -2,8 +2,12 @@ SIMITA 2019
 ===========
 ![alt text](https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png)
 
+DONASI
+=======
+- BCA (6630 288884) a/n Ahmad Sopian
+
 DEMO
-=====
+=============
 - Link : https://demo.kampungteknologi.web.id/simita2019
 - User : root
 - Pass : P@ssw0rd
@@ -64,7 +68,7 @@ Version 2.3 Build 022018
 - Penambahan Field Tipe Koneksi Internet
 - Penambahan Detail Data Inventaris Internet
 
-Versi 2.5 Build 052019 (Versi 2019
+Versi 2.5 Build 052019 (Versi 2019)
 ----------------------------------
 - Perbaikan beberapa Bug
 - Penambahan Fitur Master Referensi
@@ -72,7 +76,3 @@ Versi 2.5 Build 052019 (Versi 2019
 - Perbaikan pada tiket pemilihan nomor inventaris yang tidak muncul
 - Optimasi beberapa fitur
 
-**************************
-DONASI & PERTANYAAN
-**************************
-WhatsApp : 0812 1909 3977
