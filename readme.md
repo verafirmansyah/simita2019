@@ -4,9 +4,9 @@ SIMITA 2019
 
 DEMO
 =====
-https://demo.kampungteknologi.web.id/simita2019
-User : root
-Pass : P@ssw0rd
+- Link : https://demo.kampungteknologi.web.id/simita2019
+- User : root
+- Pass : P@ssw0rd
 
 SIMITA ini Versi Open Source
 ============================
