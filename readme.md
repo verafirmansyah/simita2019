@@ -1,6 +1,6 @@
 SIMITA 2019
 ===========
-[cat](https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png)
+![alt text](https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png)
 
 SIMITA ini Versi Open Source
 ============================
@@ -15,8 +15,8 @@ Apa itu SIMITA ?
 SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik.
 
 
-* Release Information
-
+Release Information
+===================
 
 Version 1.0 (April 2017)
 ------------------------
