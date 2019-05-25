@@ -1,6 +1,6 @@
 SIMITA 2019
 ===========
-![alt text](https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png)
+https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png
 
 SIMITA ini Versi Open Source
 ============================
