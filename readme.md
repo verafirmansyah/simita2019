@@ -10,7 +10,7 @@ Untuk mendapatkan versi Full Silahkan hubungi kami 0812-1909-3977
 
 
 Apa itu SIMITA ?
-###################
+================
 
 SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik.
 
