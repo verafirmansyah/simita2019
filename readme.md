@@ -26,7 +26,7 @@ Untuk mendapatkan versi Full Silahkan hubungi kami 0812-1909-3977
 Apa itu SIMITA ?
 ================
 
-SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik dan dapat memiliki catatan pengelolaan aset dalam bidang IT seperti PC, Laptop, Printer dan periperal lainnya, serta dapat memanagemen permintaan perbaikan serta perawatan perangkat dengan mudah dan cepat.
+SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik dan dapat memiliki catatan pengelolaan aset dalam bidang IT seperti PC, Laptop, Printer dan periperal lainnya, serta dapat memanagemen permintaan perbaikan serta perawatan perangkat dengan mudah dan cepat. Selain itu SIMITA 2019 memiliki fitur kartu stock untuk pencatatan barang masuk dan keluar terutama untuk hardware dibidang IT agar dapat tercatat secara lengkap dan jelas.
 
 Cara Setup
 ===========
