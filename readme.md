@@ -16,7 +16,7 @@ DEMO
 - Pass : P@ssw0rd
 - Mohon untuk tidak mengganti Password dalam demo tersebut.
 
-SIMITA ini Versi Open Source
+SIMITA Versi Open Source
 ============================
 - Beberapa file sengaja kami enkripsi
 - Tidak mendapat dokungan support
