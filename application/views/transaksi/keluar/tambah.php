@@ -160,6 +160,15 @@ function hapus(id){
                     </td>                
                 </tr>
                 <tr>
+                    <td style="width:15%">No.HP Penerima</td>
+                    <td>
+                    <div class="col-sm-4">
+                    <input type="number" class="form-control" name="nohp_penerima"  required oninvalid="setCustomValidity('No.HP Penerima Wajib Diisi !')"
+                                 oninput="setCustomValidity('')" placeholder="08123456789">
+                    </div>
+                    </td>
+                </tr>
+                <tr>
                     <td>BARANG</td>
                     <td>
                         <div class="col-sm-4">
@@ -212,8 +221,8 @@ function hapus(id){
             </table>     
             <div class="box-footer">
                 <button type="button" onclick="add_barang()" class="btn btn-primary" name="add"><i class="fas fa-cart-arrow-down"></i> Add Barang</button>
-                <button type="submit" name="submit" class="btn btn-primary"><i class="glyphicon glyphicon-hdd"></i> Simpan</button> 
-                <a href="<?php echo site_url('keluar'); ?>" class="btn btn-primary"><i class="fas fa-arrow-circle-left"></i> Kembali</a>
+                <button type="submit" name="submit" class="btn btn-success"><i class="fas fa-save"></i> Simpan</button> 
+                <a href="<?php echo site_url('keluar'); ?>" class="btn btn-danger"><i class="fas fa-arrow-circle-left"></i> Kembali</a>
             </div>
             </form>       
             <div class="box-body table-responsive">
