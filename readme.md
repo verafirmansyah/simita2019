@@ -27,6 +27,11 @@ Apa itu SIMITA ?
 
 SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik.
 
+#Cara Setup
+- Download seluruh File dalam bentuk ZIP
+- Extract pada folder htdocs (jika di xampp) atau masukan ke hosting anda
+- Buat sebuah database lalu import database db_simita.sql ke dalam database yang baru
+- Konfigurasi file database.php di dalam folder Application/Config/database-SAMPLE.php, ubah menjadi database.php lalu sesuaikan konfigurasi database kalian.
 
 Release Information
 ===================
