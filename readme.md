@@ -25,9 +25,10 @@ Untuk mendapatkan versi Full Silahkan hubungi kami 0812-1909-3977
 Apa itu SIMITA ?
 ================
 
-SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik.
+SIMITA (SIstem Managemen IT Aset) adalah aplikasi managemen aset khususnya untuk divisi IT, dengan adanya sistem ini diharapkan dapat membantu Team IT menjalankan tugasnya dengan baik dan dapat memiliki catatan pengelolaan aset dalam bidang IT seperti PC, Laptop, Printer dan periperal lainnya, serta dapat memanagemen permintaan perbaikan serta perawatan perangkat dengan mudah dan cepat.
 
-#Cara Setup
+Cara Setup
+===========
 - Download seluruh File dalam bentuk ZIP
 - Extract pada folder htdocs (jika di xampp) atau masukan ke hosting anda
 - Buat sebuah database lalu import database db_simita.sql ke dalam database yang baru
