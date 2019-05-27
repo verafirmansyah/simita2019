@@ -1,5 +1,6 @@
 SIMITA 2019
 ===========
+![alt text](https://raw.githubusercontent.com/asratech/simita2019/master/logo-invoice3.png)
 ![alt text](https://raw.githubusercontent.com/asratech/simita2019/master/screenshot_simita2019.png)
 
 # DILARANG MEMPERJUAL BELIKAN APLIKASI INI, JIKA ANDA NEKAT MEMPERJUAL BELIKANNYA LAGI AKAN SAYA DO'A-KAN MISKIN 7 TURUNAN, HARGAI KARYA ORANG LAIN.
