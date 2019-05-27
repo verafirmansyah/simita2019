@@ -77,4 +77,6 @@ Versi 2.5 Build 052019 (Versi 2019)
 - Perbaikan Bug Print
 - Perbaikan pada tiket pemilihan nomor inventaris yang tidak muncul
 - Optimasi beberapa fitur
+- Perbaikan pada menu barang masuk
+- Penambahan nomor telpon penerima pada barang keluar
 
