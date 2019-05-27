@@ -62,6 +62,7 @@ class Masuk extends CI_Controller {
 
     function load_temp(){
         echo "<table class='table table-bordered table-striped'>
+        <h4>Detail Barang Masuk</h4>
         <tr>
             <th>Kode Barang</th>
             <th>Nama Barang</th>

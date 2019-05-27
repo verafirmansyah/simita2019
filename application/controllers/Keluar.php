@@ -4,6 +4,7 @@ class Keluar extends CI_Controller {
 
     function __construct() {
         parent::__construct();
+        $this->load->helper('date');
         $this->load->model(array('m_keluar'));
         chek_session();
     }
@@ -118,14 +119,14 @@ class Keluar extends CI_Controller {
                     'kode_transaksi'=>$kode,                     
                     'tgl_transaksi'=>  tanggal(),
                     'id_pengguna'=>$this->input->post('penerima'),
+                    'nohp_penerima'=>$this->input->post('nohp_penerima'),
                     'id_cabang'=>$this->input->post('cabang'),
-                    'createddate'=>tgl_lengkap,
-                    'form_permintaan' => $upload['file']['file_name'],
+                    'createby'=>$this->session->userdata('username'),
+                    'createddate' =>mdate('%Y-%m-%d %H:%i:%s', now()),
                     'gid'=>$gid
                 );
             $this->m_keluar->simpan($data);
             $this->m_keluar->update_status($kode);
-            $this->m_keluar->upload();
             redirect('keluar');
         } else {
             $data['kode']=$this->m_keluar->kdotomatis();
