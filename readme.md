@@ -86,4 +86,5 @@ Versi 2.5 Build 052019 (Versi 2019)
 - Optimasi beberapa fitur
 - Perbaikan pada menu barang masuk
 - Penambahan nomor telpon penerima pada barang keluar
+- Update ckeditor to v.4.11.4
 
