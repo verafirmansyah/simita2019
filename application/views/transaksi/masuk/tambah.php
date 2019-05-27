@@ -232,9 +232,9 @@ function hapus(id){
                 </tr>                
             </table>
             <div class="box-footer">
-                <button type="button" onclick="add_barang()" class="btn btn-primary" name="add"><i class="glyphicon glyphicon-save"></i> Add Barang</button>
-                <button type="submit" name="submit" class="btn btn-primary"><i class="glyphicon glyphicon-hdd"></i> Simpan</button>  
-                <a href="<?php echo site_url('masuk'); ?>" class="btn btn-primary">Kembali</a>
+                <button type="button" onclick="add_barang()" class="btn btn-primary" name="add"><i class="glyphicon glyphicon-save"></i> Tambah Barang</button>
+                <button type="submit" name="submit" class="btn btn-success"><i class="fas fa-save"></i> Simpan</button>  
+                <a href="<?php echo site_url('masuk'); ?>" class="btn btn-danger"><i class="fas fa-chevron-left"></i> Kembali</a>
             </div>  
             </form>       
             <div class="box-body table-responsive">
