@@ -11,7 +11,7 @@ DONASI
 
 DEMO
 =============
-- Link : https://demo.kampungteknologi.web.id/simita2019
+- Link : http://demo.kampungteknologi.web.id/simita2019
 - User : root
 - Pass : P@ssw0rd
 - Mohon untuk tidak mengganti Password dalam demo tersebut.
